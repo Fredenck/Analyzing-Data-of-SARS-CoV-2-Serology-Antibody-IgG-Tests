@@ -1,0 +1,142 @@
+Patient ID,Days after symptoms onset,IgG S/CO,IgM S/CO,Group
+1,4,36.272,0.162,IgG seroconverted earlier than IgM
+1,7,196.891,0.642,IgG seroconverted earlier than IgM
+1,10,252.084,0.928,IgG seroconverted earlier than IgM
+1,13,246.375,1.033,IgG seroconverted earlier than IgM
+2,4,4.072,0.738,IgG seroconverted earlier than IgM
+2,7,66.458,6.059,IgG seroconverted earlier than IgM
+2,10,104.05,7.457,IgG seroconverted earlier than IgM
+2,13,95.682,7.215,IgG seroconverted earlier than IgM
+2,16,82.838,6.848,IgG seroconverted earlier than IgM
+2,19,75.33,6.566,IgG seroconverted earlier than IgM
+2,22,78.927,9.206,IgG seroconverted earlier than IgM
+2,25,65.975,8.068,IgG seroconverted earlier than IgM
+3,4,4.813,0.6,IgG seroconverted earlier than IgM
+3,7,52.135,0.923,IgG seroconverted earlier than IgM
+3,10,131.817,0.487,IgG seroconverted earlier than IgM
+3,13,134.784,0.744,IgG seroconverted earlier than IgM
+3,16,153.482,1.196,IgG seroconverted earlier than IgM
+3,19,173.095,1.368,IgG seroconverted earlier than IgM
+6,4,0.654,0.422,IgG seroconverted earlier than IgM
+6,4,0.677,0.661,IgG seroconverted earlier than IgM
+6,7,5.95,0.383,IgG seroconverted earlier than IgM
+6,10,30.67,0.444,IgG seroconverted earlier than IgM
+6,13,35.83,0.477,IgG seroconverted earlier than IgM
+6,16,28.363,0.559,IgG seroconverted earlier than IgM
+7,5,0.353,0.163,IgG seroconverted earlier than IgM
+7,8,1.567,0.706,IgG seroconverted earlier than IgM
+7,11,5.822,2.862,IgG seroconverted earlier than IgM
+7,14,5.829,2.443,IgG seroconverted earlier than IgM
+10,10,6.913,0.937,IgG seroconverted earlier than IgM
+10,13,51.507,3.998,IgG seroconverted earlier than IgM
+10,16,56.456,3.386,IgG seroconverted earlier than IgM
+10,19,40.473,6.094,IgG seroconverted earlier than IgM
+10,22,29.334,4.737,IgG seroconverted earlier than IgM
+11,12,1.215,0.543,IgG seroconverted earlier than IgM
+11,18,2.1,1.254,IgG seroconverted earlier than IgM
+11,21,2.524,1.73,IgG seroconverted earlier than IgM
+11,24,2.546,1.683,IgG seroconverted earlier than IgM
+11,27,3.8,2.131,IgG seroconverted earlier than IgM
+11,30,3.373,1.499,IgG seroconverted earlier than IgM
+16,7,0.548,0.473,IgG seroconverted earlier than IgM
+16,13,6.104,0.596,IgG seroconverted earlier than IgM
+16,16,12.226,1.071,IgG seroconverted earlier than IgM
+19,10,0.429,0.532,IgG seroconverted earlier than IgM
+19,16,1.442,0.98,IgG seroconverted earlier than IgM
+19,19,2.124,1.517,IgG seroconverted earlier than IgM
+19,22,4.55,3.759,IgG seroconverted earlier than IgM
+25,2,0.645,0.362,IgG seroconverted earlier than IgM
+25,5,0.8,0.349,IgG seroconverted earlier than IgM
+25,8,0.51,0.326,IgG seroconverted earlier than IgM
+25,11,0.786,0.339,IgG seroconverted earlier than IgM
+25,14,0.956,0.385,IgG seroconverted earlier than IgM
+25,17,0.867,0.368,IgG seroconverted earlier than IgM
+25,20,1.822,0.579,IgG seroconverted earlier than IgM
+25,23,1.802,0.605,IgG seroconverted earlier than IgM
+25,26,1.446,0.451,IgG seroconverted earlier than IgM
+8,5,0.78,1.473,IgM seroconverted earlier than IgG
+8,8,1.096,1.823,IgM seroconverted earlier than IgG
+8,11,1.957,2.515,IgM seroconverted earlier than IgG
+8,14,1.671,2.033,IgM seroconverted earlier than IgG
+8,17,2.478,1.912,IgM seroconverted earlier than IgG
+15,10,0.7,2.794,IgM seroconverted earlier than IgG
+15,13,2.771,4.924,IgM seroconverted earlier than IgG
+15,16,6.831,7.445,IgM seroconverted earlier than IgG
+15,19,7.599,6.623,IgM seroconverted earlier than IgG
+15,22,11.935,5.848,IgM seroconverted earlier than IgG
+18,5,0.335,0.465,IgM seroconverted earlier than IgG
+18,8,0.294,0.6,IgM seroconverted earlier than IgG
+18,11,0.505,2.526,IgM seroconverted earlier than IgG
+18,14,3.512,3.832,IgM seroconverted earlier than IgG
+18,17,9.953,4.321,IgM seroconverted earlier than IgG
+18,20,10.82,4.581,IgM seroconverted earlier than IgG
+21,15,0.894,1.678,IgM seroconverted earlier than IgG
+21,18,2.06,1.827,IgM seroconverted earlier than IgG
+21,21,2.831,1.992,IgM seroconverted earlier than IgG
+21,24,3.087,2.22,IgM seroconverted earlier than IgG
+21,27,4.548,2.847,IgM seroconverted earlier than IgG
+21,30,4.671,2.625,IgM seroconverted earlier than IgG
+21,33,4.404,2.664,IgM seroconverted earlier than IgG
+22,16,0.7,4.653,IgM seroconverted earlier than IgG
+22,19,1.56,4.001,IgM seroconverted earlier than IgG
+26,6,0.404,0.588,IgM seroconverted earlier than IgG
+26,9,0.271,0.59,IgM seroconverted earlier than IgG
+26,12,0.532,0.86,IgM seroconverted earlier than IgG
+26,15,0.563,1.837,IgM seroconverted earlier than IgG
+26,18,0.533,1.433,IgM seroconverted earlier than IgG
+26,21,1.175,1.668,IgM seroconverted earlier than IgG
+27,7,0.327,1.673,IgM seroconverted earlier than IgG
+27,10,0.727,8.818,IgM seroconverted earlier than IgG
+27,22,6.49,6.645,IgM seroconverted earlier than IgG
+27,25,9.633,7.865,IgM seroconverted earlier than IgG
+27,28,7.599,6.578,IgM seroconverted earlier than IgG
+4,3,0.314,0.19,Synchronous seroconversion
+4,6,2.49,1.057,Synchronous seroconversion
+4,9,7.373,2.012,Synchronous seroconversion
+4,12,10.026,1.717,Synchronous seroconversion
+4,15,9.298,1.637,Synchronous seroconversion
+4,18,7.797,1.478,Synchronous seroconversion
+4,21,9.272,1.704,Synchronous seroconversion
+4,24,6.894,1.38,Synchronous seroconversion
+4,27,6.84,1.363,Synchronous seroconversion
+5,4,0.221,0.231,Synchronous seroconversion
+5,7,1.258,1.584,Synchronous seroconversion
+9,3,0.224,0.11,Synchronous seroconversion
+9,9,5.272,2.186,Synchronous seroconversion
+12,9,0.767,0.562,Synchronous seroconversion
+12,12,4.472,6.35,Synchronous seroconversion
+12,15,8.257,18.932,Synchronous seroconversion
+12,18,8.302,27.552,Synchronous seroconversion
+12,21,8.806,34.152,Synchronous seroconversion
+13,7,0.626,0.283,Synchronous seroconversion
+13,10,0.975,0.768,Synchronous seroconversion
+13,13,12.374,6.482,Synchronous seroconversion
+13,16,26.738,8.85,Synchronous seroconversion
+13,19,27.2,10.073,Synchronous seroconversion
+13,22,26.904,9.387,Synchronous seroconversion
+13,25,41.056,15.42,Synchronous seroconversion
+13,28,30.181,11.84,Synchronous seroconversion
+14,7,0.345,0.147,Synchronous seroconversion
+14,10,0.822,0.157,Synchronous seroconversion
+14,13,2.226,1.351,Synchronous seroconversion
+14,16,9.311,5.173,Synchronous seroconversion
+14,19,18.453,6.415,Synchronous seroconversion
+14,22,19.991,6.919,Synchronous seroconversion
+14,25,18.391,7.584,Synchronous seroconversion
+17,8,0.351,0.479,Synchronous seroconversion
+17,14,9.251,99.991,Synchronous seroconversion
+17,17,27.26,117.466,Synchronous seroconversion
+17,20,32.604,102.939,Synchronous seroconversion
+17,23,27.312,78.204,Synchronous seroconversion
+17,26,28.173,95.736,Synchronous seroconversion
+20,17,4.285,24.805,Synchronous seroconversion
+20,20,0.462,0.284,Synchronous seroconversion
+20,23,15.765,27.784,Synchronous seroconversion
+20,26,16.859,27.934,Synchronous seroconversion
+20,29,23.541,32.239,Synchronous seroconversion
+24,5,0.203,0.265,Synchronous seroconversion
+24,11,0.229,0.584,Synchronous seroconversion
+24,20,6.351,10.812,Synchronous seroconversion
+24,23,8.423,12.085,Synchronous seroconversion
+24,26,7.489,8.636,Synchronous seroconversion
+24,29,6.654,7.448,Synchronous seroconversion
