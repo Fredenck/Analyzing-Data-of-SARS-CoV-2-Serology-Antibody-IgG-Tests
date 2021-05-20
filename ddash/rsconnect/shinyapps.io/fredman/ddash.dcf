@@ -1,0 +1,13 @@
+name: ddash
+title: ddash
+username:
+account: fredman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4157502
+bundleId: 4618705
+url: https://fredman.shinyapps.io/ddash/
+when: 1621481484.29138
+lastSyncTime: 1621481484.29138
+asMultiple: FALSE
+asStatic: FALSE
